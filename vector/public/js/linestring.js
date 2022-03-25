@@ -1,0 +1,1 @@
+var lineJson={"type":"FeatureCollection","features":[{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[466.7362976074219,10.90883015572212],[466.9065856933593,10.856234984558315],[466.578369140625,10.813073053815014]]}}]}
